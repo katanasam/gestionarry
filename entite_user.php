@@ -26,7 +26,7 @@ class entite_user {
 	
 	 	printf('le nom du joueur est : %s \n',$user->username);
 		printf('le mot de pass et decripter est : %s \n ',$user->pass);
-		printf(' ladress email est : %s \n ',user->email);
+		printf(' ladress email est : %s \n ',$user->email);
 	}
 
 
